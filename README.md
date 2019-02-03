@@ -6,5 +6,7 @@ youtube video:
 " target="_blank"><img src="http://img.youtube.com/vi/IM-mMTifHO0/0.jpg" 
 alt="YOUTUBE VIDEO" width="240" height="180" border="10" /></a>
 
+http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=69120
+
 ---
 in /bin/debug is .exe file
