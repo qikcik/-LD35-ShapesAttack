@@ -7,4 +7,4 @@ alt="YOUTUBE VIDEO" width="240" height="180" border="10" /></a>
 [ludum dare website](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=69120)
 
 ---
-in /bin/debug is .exe file
+in /bin is windows buid
